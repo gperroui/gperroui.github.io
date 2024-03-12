@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-03-08
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Happy to see the work of our summer intern [featured](https://esir.univ-rennes.fr/actualites/article-de-camille-molinier-etudiant-de-lesir-publie-sur-hal-open-science) in a French press release of his engineering school [ESIR](https://esir.univ-rennes.fr)

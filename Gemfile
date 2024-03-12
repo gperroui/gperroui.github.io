@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
-    gem 'classifier-reborn'
     gem 'jekyll'
     gem 'jekyll-archives'
+    gem 'classifier-reborn'
     gem 'jekyll-email-protect'
     gem 'jekyll-feed'
     gem 'jekyll-get-json'
