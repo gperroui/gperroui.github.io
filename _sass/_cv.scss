@@ -8,6 +8,7 @@ div.container-link-button {
 
 table.table-cv {
   background-color: transparent !important;
+  margin-right: 10px;
 }
 
 a.btncv {
@@ -183,7 +184,7 @@ ul.timeline li::before {
   min-height: 2.5rem;
   width: 1px;
   background: var(--global-text-color);
-  margin: 0;
+  margin: 1rem;
   padding: 0;
   position: absolute;
   left: 2px;

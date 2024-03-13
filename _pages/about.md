@@ -8,9 +8,9 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Office 435</p>
+    <p>Office 431</p>
     <p>Rue Grandgagnage, 21</p>
-    <p> 5000 Namur,  Belgium</p>
+    <p> 5000 Namur, Belgium</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
