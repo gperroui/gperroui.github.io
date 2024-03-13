@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My new website is online.  
+My new website is online.
