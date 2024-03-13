@@ -53,11 +53,7 @@
     {
       "name": "Computer Science",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Variability-intensive Systems",
-        "Software Testing",
-        "Machine Learning"
-      ]
+      "keywords": ["Variability-intensive Systems", "Software Testing", "Machine Learning"]
     }
   ]
 }
