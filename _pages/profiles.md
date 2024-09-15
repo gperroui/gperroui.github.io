@@ -2,7 +2,8 @@
 layout: profiles
 permalink: /people/
 title: VERTIGO
-description: Variability-intensive intElligent softwaRe Testing and analysIs research GrOup
+description: Variability-intensive intElligent softwaRe Testing and analysIs research GrOup. The VERTIGO group focuses on validating intelligent and variability-intensive systems using software testing, verification and machine-learning techniques.
+
 nav: true
 nav_order: 7
 pagination: true
@@ -30,4 +31,4 @@ profiles:
       <p> 5000 Namur, Belgium</p>
 ---
 
-The VERTIGO group focuses on validating intelligent and variability-intensive systems using software testing, verification and machine-learning techniques.
+<H1>This a sample text</H1>
